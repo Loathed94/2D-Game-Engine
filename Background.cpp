@@ -1,3 +1,4 @@
+//Code written by Christian Neij
 #include "Background.h"
 namespace minMotor {
 	Background* Background::getInstance(int x, int y, int w, int h, const char* backgroundPath) {
