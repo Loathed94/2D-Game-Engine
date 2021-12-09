@@ -1,3 +1,4 @@
+//Code written by Christian Neij
 #include "Session.h"
 #include "MoveableSprite.h"
 #include <SDL_image.h>
