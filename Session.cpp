@@ -1,3 +1,4 @@
+//Code written by Christian Neij
 #include "Session.h"
 #include "System.h"
 #include <SDL.h>
