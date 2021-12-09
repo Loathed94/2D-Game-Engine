@@ -1,3 +1,4 @@
+//Code written by Christian Neij
 #include "Shortcuts.h"
 #include <iostream>
 namespace minMotor {
