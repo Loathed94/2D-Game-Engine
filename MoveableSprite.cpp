@@ -1,3 +1,4 @@
+//Code written by Christian Neij
 #include "MoveableSprite.h"
 #include <iostream>
 namespace minMotor {
