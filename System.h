@@ -1,3 +1,4 @@
+//Code written by Christian Neij
 #ifndef SYSTEM_H
 #define SYSTEM_H
 #include <SDL.h>
