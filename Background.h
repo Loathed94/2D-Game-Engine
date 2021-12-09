@@ -1,3 +1,4 @@
+//Code written by Christian Neij
 #ifndef BACKGROUND_H
 #define BACKGROUND_H
 #include "NonMoveableSprite.h"
