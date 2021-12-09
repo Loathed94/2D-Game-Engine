@@ -1,3 +1,4 @@
+//Code written by Christian Neij
 #ifndef NONCOLLIDEABLE_H
 #define NONCOLLIDEABLE_H
 #include "Sprite.h"
