@@ -1,3 +1,4 @@
+//Code written by Christian Neij
 #ifndef SHORTCUTS_H
 #define SHORTCUTS_H
 #include <SDL.h>
@@ -10,7 +11,7 @@ namespace minMotor {
 		Shortcuts();
 		FuncPointer get(const SDL_Keycode& key)const;
 		void add(const SDL_Keycode& key, FuncPointer func);
-		//void dump();  Användes bara för att testa något.
+		//void dump();  AnvÃ¤ndes bara fÃ¶r att testa nÃ¥got.
 	private:
 		std::map<SDL_Keycode, void (*)()> shortcuts;
 	};
