@@ -1,3 +1,4 @@
+//Code written by Christian Neij
 #ifndef LABEL_H
 #define LABEL_H
 #include <string>
