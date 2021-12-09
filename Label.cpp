@@ -1,3 +1,4 @@
+//Code written by Christian Neij
 #include "Label.h"
 #include <SDL_ttf.h>
 #include "System.h"
