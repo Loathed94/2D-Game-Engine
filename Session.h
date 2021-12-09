@@ -1,3 +1,4 @@
+//Code written by Christian Neij
 #ifndef SESSION_H
 #define SESSION_H
 #include <vector>
