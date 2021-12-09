@@ -1,3 +1,4 @@
+//Code written by Christian Neij
 #ifndef MOVE_SPRITE_H
 #define MOVE_SPRITE_H
 #include "Sprite.h"
