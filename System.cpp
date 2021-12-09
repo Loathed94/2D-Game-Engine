@@ -1,3 +1,4 @@
+//Code written by Christian Neij
 #include "System.h"
 
 namespace minMotor{
