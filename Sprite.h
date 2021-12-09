@@ -1,3 +1,4 @@
+//Code written by Christian Neij
 #ifndef SPRITE_H
 #define SPRITE_H
 #include <SDL.h>
