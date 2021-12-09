@@ -1,3 +1,4 @@
+//Code written by Christian Neij
 #include "Button.h"
 #include <SDL_ttf.h>
 #include "System.h"
