@@ -1,3 +1,4 @@
+//Code written by Christian Neij
 #ifndef BUTTON_H
 #define BUTTON_H
 #include "NonMoveableSprite.h"
